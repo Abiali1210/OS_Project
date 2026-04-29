@@ -185,8 +185,6 @@ server full, try again later
 The final report assets are stored in:
 
 - `Phase_3/Report OS final.docx`
-- `Phase_3/images/report.md`
-- `Phase_3/images/S1.jpeg` to `S14.jpeg`
 
 ## Limitations
 
