@@ -76,11 +76,7 @@ OS_Project/
 │   ├── shell_common.h
 │   ├── shell_server.c
 │   ├── Makefile
-│   ├── Report OS final.docx
-│   └── images/
-│       ├── report.md
-│       └── S1.jpeg ... S14.jpeg
-├── OS Phase 1 Report + Code.docx
+│   ├── Report OS final.pdf
 ├── OS Phase 1 Report + Code.pdf
 └── Spring26Project-Assignments-adjusted-april-v2.pdf
 ```
