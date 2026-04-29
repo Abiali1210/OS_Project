@@ -184,7 +184,7 @@ server full, try again later
 
 The final report assets are stored in:
 
-- `Phase_3/Report OS final.docx`
+- `Phase_3/Report OS final.pdf`
 
 ## Limitations
 
